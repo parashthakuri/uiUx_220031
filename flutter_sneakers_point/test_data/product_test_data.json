@@ -1,0 +1,45 @@
+[
+    {
+      "_id": "65b520aaab806f1c7623dea5",
+      "productName": "Rice",
+      "productPrice": 123,
+      "productDescription": "Rice is good for health",
+      "productCategory": "Gadgets"
+    },
+    {
+      "_id":"65b520b5ab806f1c7623dea7",
+      "productName": "Rice",
+      "productPrice": 123,
+      "productDescription": "Rice is good for health",
+      "productCategory": "Gadgets"
+     
+    },
+    {
+      "_id":  "65b520bdab806f1c7623dea9",
+      "productName": "Rice",
+      "productPrice": 123,
+      "productDescription": "Rice is good for health",
+      "productCategory": "Gadgets"
+  
+    },
+    {
+      "_id":  "65b520c9ab806f1c7623deab",
+      "productName": "Rice",
+      "productPrice": 123,
+      "productDescription": "Rice is good for health",
+      "productCategory": "Gadgets"
+   
+    },
+    {
+      "_id":"65b520d6ab806f1c7623dead"
+      ,
+      "productName": "Rice",
+      "productPrice": 123,
+      "productDescription": "Rice is good for health",
+      "productCategory": "Gadgets"
+     
+    }
+    ]
+
+
+    
